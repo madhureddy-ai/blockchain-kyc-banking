@@ -1,4 +1,3 @@
-![Project Banner](banner.png)
 
 
 # 🔗 Blockchain-Based KYC Model for Credit Allocation in Banking
@@ -179,17 +178,16 @@ Tables include:
 ## 📷 System Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### User Login
-![User Login](screenshots/userlogin.png)
+![User Login](user_login.png)
 
-### Admin Dashboard
-![Admin](screenshots/admin.png)
+### Admin Login
+![Admin Login](admin_login.png)
 
-### Dataset Upload
-![Dataset](screenshots/dataset.png)
-
+### Service Provider Login
+![Service Provider](service_provider.png)
 
 
 
