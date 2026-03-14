@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="banner.jpeg" height="160" width="220%">
+</p>
 
 # 🔗 Blockchain-Based KYC Model for Credit Allocation in Banking
 
